@@ -7,14 +7,14 @@
 Building modern, scalable, and real-world web applications with
 **Node.js, Express.js, React, MySQL & REST APIs.**
 
-<p>
+<!-- <p>
   <a href="https://github.com/DameDev123">
     <img src="https://img.shields.io/github/followers/DameDev123?label=Followers&style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/DameDev123">
     <img src="https://img.shields.io/github/stars/DameDev123?label=Stars&style=for-the-badge&logo=github" />
   </a>
-</p>
+</p> -->
 
 </div>
 
