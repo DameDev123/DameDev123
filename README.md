@@ -2,8 +2,6 @@
 
 # 🌌 Welcome to My Digital Workspace
 
-<img src="https://vercel.app" width="100%"/>
-
 ### ⚡ Full-Stack Developer | Backend Engineer | API Developer
 
 ```text
@@ -16,13 +14,14 @@ Driven by performance, optimized architectures, and clean code.
 ---
 
 ## 🛠️ Cybernetic Tech Stack
-<div align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</div>
+
+### 🔹 Backend & Database
+- 🚀 **Node.js** & **Express.js** — Scalable API architectures
+- 🗄️ **MySQL** & **SQL** — Database design & optimization
+- 🔐 **REST APIs** — Authentication, authorization & secure integrations
+
+### 🔹 Frontend & UI
+- 🎨 **React** & **Modern Frontend Development** — Interactive UIs
 
 ---
 
@@ -49,14 +48,6 @@ My main interests are **backend development, REST API architecture, database des
 
 ---
 
-## 📈 GitHub Matrix Statistics
-<div align="center">
-  <img src="https://vercel.app" width="48%" />
-  <img src="https://herokuapp.com" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://vercel.app" width="100%"/>
-</div>
+## 📬 Connect With Me
+- 💼 **LinkedIn:** [://linkedin.com]([https://linkedin.com](https://www.linkedin.com/in/dame-dereje-87a81732b/))
+- 📧 **Email:** damedereje123@gmail.com
