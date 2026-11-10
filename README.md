@@ -126,12 +126,11 @@ A web-based university project management application designed to streamline und
 I am open to professional opportunities, collaboration, and connecting with developers who are passionate about building useful software.
 
 ---
-
 ## 🤝 Let's Connect
 
 - 💼 GitHub: [@DameDev123](https://github.com/DameDev123)
 - 🌐 Portfolio: [Visit My Portfolio](https://portfolio-d-swart.vercel.app/)
-- 💼 LinkedIn: [Connect With Me](ADD_YOUR_LINKEDIN_PROFILE_URL)
-- 📧 Email: damedereje123@gmail.com
+- 💼 LinkedIn: [Connect With Me](https://www.linkedin.com/in/dame-dereje/)
+- 📧 Email: Your professional email
 
 **Let's build something useful together!** 🚀
